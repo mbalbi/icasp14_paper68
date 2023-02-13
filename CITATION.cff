@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors:
+  - family-names: Balbi
+    given-names: Mariano
+    orcid: https://orcid.org/0000-0002-1017-3947
+title: "Including epistemic uncertainty in engineering decision making: some numerical experiments"
+version: 0.1
+date-released: 2023-02-13
